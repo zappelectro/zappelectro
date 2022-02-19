@@ -1,4 +1,4 @@
-### ## Hey there 👋. I am Yashodhan Agnihotri. Welcome to my GitHub profile. 
+## Hey there 👋. I am Yashodhan Agnihotri. Welcome to my GitHub profile. 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
 
